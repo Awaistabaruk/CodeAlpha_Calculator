@@ -16,8 +16,6 @@ It features a **clean UI**, **responsive design**, and **smooth functionality** 
 
 
 ## 🔗 Live Demo  
-[👉 Try it here](https://awaistabaruk.github.io/CodeAlpha_Calculator/)  
+[👉 click here](https://awaistabaruk.github.io/CodeAlpha_Calculator/)  
 
 
-
-# Open index.html in your browser
